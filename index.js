@@ -38,7 +38,7 @@ client.on('ready', async () => {
     .addButton('Pls follow me', 'https://twitch.tv/adxyzz');
 
   client.user.setActivity(r);
-  client.user.setPresence({ status: "online" }); //dnd, online, idle, offline
+  client.user.setPresence({ status: "offline" }); //dnd, online, idle, offline
 
   let prevTime = null;
   setInterval(() => {
