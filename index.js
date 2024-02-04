@@ -34,8 +34,8 @@ client.on('ready', async () => {
     .setAssetsLargeText('Boring') //Text when you hover the Large image
     .setAssetsSmallImage('https://cdn.discordapp.com/attachments/705742852402970686/1203496216214642709/c131c5fee6b68f3ea06331381cd50fe6.jpg?ex=65d14e31&is=65bed931&hm=1b13ff3830c81f81e1726a8eac0132f9f7c6b689804f973670f34c81b167ae3e&') //You can put links in tenor or discord and etc.
     .setAssetsSmallText('Tomorrow...') //Text when you hover the Small image
-    .addButton('Watch', 'https://twitch.tv/adxyzz')
-    .addButton('Donate', 'https://twitch.tv/adxyzz');
+    .addButton('Watch me', 'https://twitch.tv/adxyzz')
+    .addButton('Pls follow me', 'https://twitch.tv/adxyzz');
 
   client.user.setActivity(r);
   client.user.setPresence({ status: "dnd" }); //dnd, online, idle, offline
