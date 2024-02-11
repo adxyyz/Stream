@@ -34,7 +34,7 @@ client.on('ready', async () => {
     .setAssetsLargeText('彼女はここにいない...') //Text when you hover the Large image
     .setAssetsSmallImage('https://cdn.discordapp.com/attachments/721737755666808874/1206350969575579648/08c71c5ff5452abe5236fa7f2f0cba84.jpg?ex=65dbb0e4&is=65c93be4&hm=75d26e90d7ce7b690d2f91686eb4b11cdb296cf407945ec91ababab11d6dc6b7&') //You can put links in tenor or discord and etc.
     .setAssetsSmallText('Tomorrow...') //Text when you hover the Small image
-    .addButton('Twich!', 'https://twitch.tv/adxyzz')
+    .addButton('Twitch!', 'https://twitch.tv/adxyzz')
     .addButton('Spotify!', 'https://open.spotify.com/user/qjjkf3wdib3agk1jv7nq5hgnr');
 
   client.user.setActivity(r);
