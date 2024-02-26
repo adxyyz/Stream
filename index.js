@@ -30,9 +30,9 @@ client.on('ready', async () => {
     .setName('adxyy')
     .setDetails(`Loyalty! [${formatTime()}]`)
     .setStartTimestamp(Date.now())
- .setAssetsLargeImage('https://cdn.discordapp.com/attachments/705742852402970686/1203489898720399430/0c904f520b159d4e6ee89fa52d705079.jpg?ex=65d1484f&is=65bed34f&hm=bb9ebb01229aa94fb3fdb4aae84ce913cb96dd7a2eba0730b5fc7c4e5bc55889&') //You can put links in tenor or discord and etc.
+ .setAssetsLargeImage('https://cdn.discordapp.com/attachments/721737755666808874/1211723149796966400/65e9d7d87cf76681ddfd56cdcab83c59.jpg?ex=65ef3c1f&is=65dcc71f&hm=616fcc06b81ba088d6f10e1e5847f09aaa5f8b8c6534589c8ef20861ce02f5b9&') //You can put links in tenor or discord and etc.
     .setAssetsLargeText('彼女はここにいない...') //Text when you hover the Large image
-    .setAssetsSmallImage('https://cdn.discordapp.com/attachments/721737755666808874/1206350969575579648/08c71c5ff5452abe5236fa7f2f0cba84.jpg?ex=65dbb0e4&is=65c93be4&hm=75d26e90d7ce7b690d2f91686eb4b11cdb296cf407945ec91ababab11d6dc6b7&') //You can put links in tenor or discord and etc.
+    .setAssetsSmallImage('https://cdn.discordapp.com/attachments/721737755666808874/1211723150249824296/a9d43ef7244fbc8654a2011f9226720f.jpg?ex=65ef3c1f&is=65dcc71f&hm=0683f5bc1cb6bf673fbd8557441d16125245a07833a24b846e9e06477d97a585&') //You can put links in tenor or discord and etc.
     .setAssetsSmallText('Tomorrow...') //Text when you hover the Small image
     .addButton('Twitch!', 'https://twitch.tv/adxyzz')
     .addButton('Spotify!', 'https://open.spotify.com/user/qjjkf3wdib3agk1jv7nq5hgnr');
