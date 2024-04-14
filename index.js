@@ -26,9 +26,9 @@ client.on('ready', async () => {
     .setApplicationId('1125185075319951521')
     .setType('STREAMING')
     .setURL('https://twitch.tv/adxyzz') //Must be a youtube video link 
-    .setState('DMs open!')
+    .setState('~~~~~~~')
     .setName('adxyy')
-    .setDetails(`Loyalty! [${formatTime()}]`)
+    .setDetails(`loyalty! [${formatTime()}]`)
     .setStartTimestamp(Date.now())
  .setAssetsLargeImage('https://cdn.discordapp.com/attachments/1216326102394339349/1217961423712420000/3e6bc14550d5dd192074b49257583911.jpg?ex=6605edf8&is=65f378f8&hm=828026740e5607c60d9fafd613e9a13d188632bb99dcff84830bd9fa34998c46&') //You can put links in tenor or discord and etc.
     .setAssetsLargeText('彼女はここにいない...') //Text when you hover the Large image
